@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center"> Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Pavel</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"></h3>
 
-<!--
-**Pavelrrr/Pavelrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My skills:
+-Actively studying Python and JavaScript  
+-Basic SQL skills  
+-Advanced proficiency in Excel (Power Query, Power Pivot)  
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*It's easy to lie with statistics, but it's hard to tell the truth without statistics*
+
+
