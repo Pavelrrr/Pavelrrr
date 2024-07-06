@@ -19,6 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+![Codewars](https://github.r2v.ch/codewars?user=Pavelrrr&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
 
 *It's easy to lie with statistics, but it's hard to tell the truth without statistics*
 
