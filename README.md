@@ -21,6 +21,8 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=Pavelrrr&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
+[![codewars](https://www.codewars.com/Pavelrrr/username/badges/large)](https://www.codewars.com/users/Pavelrrr)
+
 
 *It's easy to lie with statistics, but it's hard to tell the truth without statistics*
 
